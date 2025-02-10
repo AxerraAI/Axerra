@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="imgs/logo.png" alt="Axerra Logo" style="width: 80px;" />
+    <img src="imgs/axe1rra.png" alt="Axerra Logo" style="width: 80px;" />
 </p>
 
 <h2 align="center">
