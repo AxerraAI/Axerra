@@ -22,7 +22,7 @@ Axerra is an AI agent framework designed for the Web3 and Crypto, empowering dev
 ## Architecture
 
 <p align="center">
-    <img src="imgs/axerra.png" alt="Axerra Arch" />
+    <img src="imgs/roadmap.png" alt="Axerra Arch" />
 </p>
 
 ## Contributing
